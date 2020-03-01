@@ -1,4 +1,5 @@
-# rendu
+# VueJS
+School Project in VueJS and using Vuetify.
 
 ## Project setup
 ```
